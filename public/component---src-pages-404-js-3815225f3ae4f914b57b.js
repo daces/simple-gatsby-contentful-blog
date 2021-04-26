@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_contentful=self.webpackChunkgatsby_contentful||[]).push([[883],{9616:function(e,n,t){"use strict";t.r(n);var u=t(7294);n.default=function(){return u.createElement("p",null,"Error happened")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-3815225f3ae4f914b57b.js.map

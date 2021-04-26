@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://gatsby-contentful/./src/pages/404.js"],"names":[],"mappings":"gJAMA,UAJkB,WACjB,OAAO","file":"component---src-pages-404-js-3815225f3ae4f914b57b.js","sourcesContent":["import React from 'react';\r\n\r\nconst errorPage = () => {\r\n\treturn <p>Error happened</p>;\r\n};\r\n\r\nexport default errorPage;\r\n"],"sourceRoot":""}
